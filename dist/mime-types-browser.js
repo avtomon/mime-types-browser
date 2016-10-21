@@ -48,7 +48,7 @@
 	 * Created by hmelenok on 21.10.16.
 	 */
 	var mime = __webpack_require__(1);
-	window.mimeTypes = mime;
+	window.mime = mime;
 
 /***/ },
 /* 1 */
