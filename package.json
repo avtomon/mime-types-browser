@@ -10,5 +10,9 @@
     "mime"
   ],
   "author": "Mykyta Khmel",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-loader": "^0.5.4",
+    "mime-types": "^2.1.12"
+  }
 }
